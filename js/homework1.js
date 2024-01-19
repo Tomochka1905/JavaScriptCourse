@@ -18,4 +18,4 @@ console.log(Multiply);
 
 let s = 6;
 let exponetiation = s ** 6;
-console.log(exponentiation)
+console.log(exponentiation);
